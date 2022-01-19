@@ -15,8 +15,8 @@ body {
   
   .jumbotron {
     text-align: center;
-    background-color: transparent;
-    color: black;
+    background-color: rgb(255, 254, 180);
+    color: rgb(17, 1, 1);
     border-radius: 0;
     border-bottom: 10px solid black;
   }
@@ -33,17 +33,17 @@ body {
   .row {
     white-space: pre-wrap;
     height: 80px;
-    border-top: 1px solid white;;
+    border-top: 1px solid rgb(247, 238, 238);;
   }
   
   .hour {
-    background-color: #ffffff;
-    color: #000000;
-    border-top: 1px dashed #000000;
+    background-color: #f7b2f0;
+    color: #0f0d0d;
+    border-top: 5px dashed #000000;
   }
   
   .past {
-    background-color: #d3d3d3;
+    background-color: #d8d1d1;
     color: white;
   }
   

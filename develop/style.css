@@ -43,8 +43,8 @@ body {
   }
   
   .past {
-    background-color: #d8d1d1;
-    color: white;
+    background-color: #96caac77;
+    color: rgba(255, 47, 47, 0.048);
   }
   
   .present {

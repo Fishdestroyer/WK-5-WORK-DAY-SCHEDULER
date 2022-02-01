@@ -25,12 +25,14 @@ $(document).ready(function(){
     $("#17 .description").val(localStorage.getItem("17"));
     $("#18 .description").val(localStorage.getItem("18"));
     // add more rows for more time
-    function timeChange(){
-        var currentHour = moment().hour(); // Number
-        
-        $('.time-block').each(function(){
-            var idTime = parseInt($(this).attr("id"));// Defines which hour the attribute is
-         
+  
+    function addDays(date, days) {
+        var result = new Date(date);
+        result.setDate(result.getDate() + days);
+        return result;
+      }
+    timeChange();
+    var timeInterval = setInterval(timeChange, 1000);
 
 
 });

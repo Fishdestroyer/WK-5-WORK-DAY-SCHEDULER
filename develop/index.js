@@ -25,12 +25,7 @@ $(document).ready(function () {
     $("#16 .description").val(localStorage.getItem("16"));
     $("#17 .description").val(localStorage.getItem("17"));
     $("#18 .description").val(localStorage.getItem("18"));
-    $("#19 .description").val(localStorage.getItem("19"));
-    $("#18 .description").val(localStorage.getItem("18"));
-    $("#20 .description").val(localStorage.getItem("20"));
-    $("#21 .description").val(localStorage.getItem("21"));
-    $("#22 .description").val(localStorage.getItem("22"));
-    $("#23 .description").val(localStorage.getItem("23"));
+
     //Added additional time stamps for demo purposes, will be removed
     // add more rows for more time
     function timeChange() {

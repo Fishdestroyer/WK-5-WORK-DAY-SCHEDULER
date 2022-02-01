@@ -16,7 +16,7 @@ body {
   .jumbotron {
     text-align: center;
     background-color: rgb(255, 254, 180);
-    color: rgb(17, 1, 1);
+    color: rgb(49, 5, 5);
     border-radius: 0;
     border-bottom: 10px solid black;
   }
@@ -43,7 +43,7 @@ body {
   }
   
   .past {
-    background-color: #96caac77;
+    background-color: #b1db64f8;
     color: rgba(255, 47, 47, 0.048);
   }
   
@@ -53,8 +53,9 @@ body {
   }
   
   .future {
-    background-color: #77dd77;
-    color: white;
+    background-color: #92b5caad;
+    color: rgb(243, 234, 234);
+    
   }
   
   .saveBtn {

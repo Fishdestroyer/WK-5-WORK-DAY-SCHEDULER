@@ -37,12 +37,6 @@ JavaScript
 
 jquery
 
-# Functionality Video
-
-
-
-
-
 # Mentions and resources
 Google
 
@@ -58,4 +52,6 @@ https://momentjs.com/
 
 
 # Screenshot
+![Week 5-1](https://user-images.githubusercontent.com/90293855/151916980-af908c7b-44c5-4fe9-a0ba-dbdad668bac4.JPG)
 
+![week 5-2](https://user-images.githubusercontent.com/90293855/151917067-ce82ed1a-d7ad-4002-aff5-0b4c2e3893c6.JPG)
